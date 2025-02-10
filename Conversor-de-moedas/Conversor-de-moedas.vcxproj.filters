@@ -18,8 +18,5 @@
     <ClCompile Include="Conversor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ConversorIni.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
